@@ -24,6 +24,6 @@ I'm a web developer from Lisbon, Portugal! 🇵🇹 🇪🇺
 ---
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafDevX&show_icons=true&count_private=true&hide=stars,issues&bg_color=45,fca900,4c00fc&title_color=fff&text_color=fff&icon_color=fff&cache_seconds=1800)][github]
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafDevX&layout=compact&langs_count=10&bg_color=-45,30bdbd,4c00fc&title_color=fff&text_color=fff&icon_color=fff&cache_seconds=1800)][github]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafDevX&hide=assembly&layout=compact&langs_count=10&bg_color=-45,30bdbd,4c00fc&title_color=fff&text_color=fff&icon_color=fff&cache_seconds=1800)][github]
 
 [github]: https://github.com/RafDevX
