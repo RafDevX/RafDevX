@@ -28,8 +28,10 @@ I am currently pursuing a **Master's Degree in Cybersecurity** (TCYSM) at
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.rso.pt/api?username=RafDevX&custom_title=GitHub%20Stats&show_icons=true&hide=stars&hide_rank=true&bg_color=45,fca900,4c00fc&title_color=fff&text_color=fff&icon_color=fff)][github]
-[![Top Languages](https://github-readme-stats.rso.pt/api/top-langs/?username=RafDevX&custom_title=Top%20Languages&layout=compact&langs_count=10&hide=assembly,prolog&exclude_repo=quizzes-tutor-es&bg_color=-45,1f0559,4c00fc&title_color=fff&text_color=fff&icon_color=fff)][github]
+<p align="center">
+<img align="center" src="https://github-readme-stats.rso.pt/api?username=RafDevX&custom_title=GitHub%20Stats&show_icons=true&hide=stars&hide_rank=true&bg_color=45,fca900,4c00fc&title_color=fff&text_color=fff&icon_color=fff" />
+<img align="center" src="https://github-readme-stats.rso.pt/api/top-langs/?username=RafDevX&custom_title=Top%20Languages&layout=compact&langs_count=10&hide=assembly,prolog&exclude_repo=quizzes-tutor-es&bg_color=-45,1f0559,4c00fc&title_color=fff&text_color=fff&icon_color=fff" />
+</p>
 
 ---
 
